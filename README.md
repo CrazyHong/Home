@@ -1,2 +1,0 @@
-# self-definition
-private repository
