@@ -1,6 +1,0 @@
-{
-  "name": "Self-definition",
-  "tagline": "private repository",
-  "body": "My self-definition Page\r\n<span id=\"test\"></span>\r\n<script>\r\n$(function(){\r\n   document.getElementById(\"test\").innerText = \"test\";\r\n})\r\n</script>",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
